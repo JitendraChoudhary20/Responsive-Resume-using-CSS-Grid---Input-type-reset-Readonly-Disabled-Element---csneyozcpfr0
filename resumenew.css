@@ -22,6 +22,7 @@ body{
     background-color: #1f2025;
     list-style: none;
     grid-column: span 1;
+    border-right: 2px solid black;
 }
 .right-section{
     background-color: #F7F7F7;
@@ -32,6 +33,7 @@ body{
     align-items: center;
     justify-content: center;
     color: #f5f5f5;
+
 }
 .profile-image{
     margin: auto;
